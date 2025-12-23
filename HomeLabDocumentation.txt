@@ -1,0 +1,38 @@
+Domain Name: SUPERFLY 
+
+
+Server Naming Scheme
+
+	Theme: U.S. States 
+
+	Naming Convention: State Code (MD)|Server Function(DC=Domain Controller, FS=File 	Server, WS=Web Server) | Number Identifier (01) 
+
+	Domain Controller Names: 
+		DC1 Name: MDDC01 
+
+
+Desktop/Laptop Naming Scheme 
+
+	Naming Convention:  Device Type (DT=Desktop, LT=Laptop, SRV=Server, VM=Virtual 	Machine, PRN=Printer | Serial Number 
+
+	Ex: LTPF5XLM6N 
+
+
+LAN IP Addressing Scheme 
+
+	Network Address: 192.168.1.0 
+
+	Subnet Mask: 255.255.255.0 
+
+	IP Address Ranges (Static Hosts and DHCP):     
+
+		Static:  192.168.1.1 - 192.168.1.49 
+
+		DHCP:  10.0.0.50 - 10.0.0.200 
+
+
+Login ID Format 
+
+	Naming Convention: First initial | Last name | Number Identifier (00) 
+
+	Ex: jfrimpong01 
