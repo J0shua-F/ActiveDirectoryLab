@@ -9,6 +9,7 @@ Server Naming Scheme
 
 	Domain Controller Names: 
 		DC1 Name: MDDC01 
+		DC2 Name: MDDC02
 
 
 Desktop/Laptop Naming Scheme 
