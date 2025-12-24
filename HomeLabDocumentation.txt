@@ -1,4 +1,4 @@
-Domain Name: SUPERFLY 
+Domain Name: SUPAFLY.local
 
 
 Server Naming Scheme
@@ -37,3 +37,4 @@ Login ID Format
 	Naming Convention: First initial | Last name | Number Identifier (00) 
 
 	Ex: jfrimpong01 
+
