@@ -6,8 +6,9 @@ This project is a Windows Server Active Directory home lab that replicates a bas
 
 <h2>Tools Used</h2>
 
-- <b>VMWare Workstation Pro</b> 
-- <b>Windows Server</b> 
+- <b>[VMWare Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)</b> 
+- <b>[Windows Server iso](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)</b>
+- <b>[Windows 11 iso](https://www.microsoft.com/en-us/software-download/windows11)
 - <b>DHCP</b>
 - <b>DNS</b>
 
